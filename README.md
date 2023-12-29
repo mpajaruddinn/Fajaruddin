@@ -1,2 +1,2 @@
 # Fajaruddin
-Tugas Besar Pengenalan Teknik Elektro
+Tugas Besar Pengenalan Teknik Elektro Kelompok 6
